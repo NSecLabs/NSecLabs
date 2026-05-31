@@ -4,7 +4,7 @@
 
 I'm passionate about cybersecurity, programming, and technology. Currently building practical skills through hands-on projects, self-study, and continuous learning.
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 * Learning ethical hacking and penetration testing concepts
 * Building Python projects and automation tools
@@ -12,7 +12,7 @@ I'm passionate about cybersecurity, programming, and technology. Currently build
 * Completing cybersecurity labs and challenges
 * Expanding my understanding of networking and security fundamentals to get my dream job of becoming a pentester or ethical hacker
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Programming
 
