@@ -1,6 +1,6 @@
 # Hi, I'm Nathan 👋
 
-### Aspiring Cybersecurity Professional
+### Cybersecurity Student & Developer
 
 I'm passionate about cybersecurity, programming, and technology. Currently building practical skills through hands-on projects, self-study, and continuous learning.
 
