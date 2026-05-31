@@ -1,6 +1,6 @@
 # Hi, I'm Nathan 👋
 
-### Aspiring Cybersecurity Intermidiate
+### Aspiring Cybersecurity Intermediate
 
 I'm passionate about cybersecurity, programming, and technology. Currently building practical skills through hands-on projects, self-study, and continuous learning.
 
@@ -40,7 +40,7 @@ I'm passionate about cybersecurity, programming, and technology. Currently build
 * Visual Studio Code
 * PyCharm
 
-## 📂 Featured Projects
+## Featured Projects
 
 * SQL Portfolio — Database queries, reporting, and data analysis exercises
 * Python Projects — Automation tools and security-focused scripts
@@ -54,7 +54,7 @@ I'm passionate about cybersecurity, programming, and technology. Currently build
 * Earn industry certifications  like Comptia cerificates
 * Gain practical experience in penetration testing and security analysis to reach the dream job
 
-## 📫 Connect With Me
+## Connect With Me
 
 * GitHub: @NSecLabs
 
