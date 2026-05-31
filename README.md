@@ -46,12 +46,12 @@ I'm passionate about cybersecurity, programming, and technology. Currently build
 * Python Projects — Automation tools and security-focused scripts
 * Cybersecurity Labs — Documentation of learning activities and practical exercises
 
-## 🎯 Current Goals
+## Current Goals
 
 * Strengthen Python development skills
 * Learn MySQL and PostgreSQL
 * Build cybersecurity-focused projects
-* Earn industry certifications
+* Earn industry certifications  like Comptia cerificates
 * Gain practical experience in penetration testing and security analysis to reach the dream job
 
 ## 📫 Connect With Me
