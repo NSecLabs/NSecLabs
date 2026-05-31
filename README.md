@@ -55,6 +55,6 @@ I'm passionate about cybersecurity, programming, and technology. Currently build
 
 ## Connect With Me
 
-- GitHub: **@NSecLabs**
+-  GitHub: [@NSecLabs](https://github.com/NSecLabs)
 
 > *"Continuous learning, practical experience, and curiosity drive my journey into cybersecurity."*
